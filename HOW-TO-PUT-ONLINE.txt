@@ -1,0 +1,8 @@
+HOGO STUDIOS WEBSITE - FREE HOSTING STEPS
+1. Open index.html in a text editor and use Find and Replace:
+   YOUR_EMAIL  -> your Hogo email
+   YOUR_PHONE  -> your phone number
+2. Free hosting (no domain needed, $0): Cloudflare Pages, Netlify or GitHub Pages.
+   Upload this whole folder. You get a free link like yourname.pages.dev or yourname.netlify.app
+3. Put that link in your emails and in your Instagram / TikTok bio.
+index.html is the main page. The four demo sites are hvac.html, barber.html, tattoo.html, restaurant.html.
